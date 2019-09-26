@@ -1,0 +1,58 @@
+/** Body Info **/
+.page-content {
+    flex: 1 0 auto;
+
+}
+
+/** index.html **/
+
+.list-item-navbar {
+    color: #777777 !important;
+}
+
+.border-under-nav {
+    border-top: 2px solid ;
+}
+
+.h3-header {
+    color: #4aaaa5
+}
+
+/* Sticky Footer Classes */
+.footer-all {
+    border-top: 4px solid #4aaaa5;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.page-content {
+    flex: 1 0 auto;
+
+}
+
+#sticky-footer {
+    flex-shrink: none;
+}
+
+
+
+.background-image {
+    background-image: url("../images/united-squares-negative/united-squares-negative.png");
+}
+
+
+.border-textbody {
+    border: 2px solid black;
+}
+
+p {
+    margin:0;
+}
+
+.gifFormat
+{
+    display: inline-block;
+}
