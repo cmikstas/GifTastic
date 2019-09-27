@@ -7,7 +7,7 @@ function showGifs()
 {
     var gifSearch = $(this).attr("data-name");
     var limit = 10;
-    var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + gifSearch + "&api_key=" + ApiKey + "&limit=" + limit;
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + gifSearch + "&api_key=" + ApiKey + "&limit=" + limit;
 
     console.log(queryURL);
 
